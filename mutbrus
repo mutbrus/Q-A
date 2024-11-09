@@ -1,0 +1,24 @@
+HTML
+1.	Question: What is the purpose of meta tags in HTML?
+o	Answer: Meta tags provide metadata about the HTML document, such as character set, viewport settings, and page description. This information helps search engines understand the content of the page and improves its SEO.
+2.	Question: What is the difference between <div> and <span> tags?
+o	Answer: The <div> tag is a block-level element that starts on a new line and is often used to group larger sections of content. The <span> tag is an inline element that does not start on a new line and is used to style specific parts of text within a block-level element.
+3.	Question: How can you create a hyperlink in HTML?
+o	Answer: A hyperlink can be created using the <a> tag, with the href attribute pointing to the URL. Example: <a href="https://www.example.com">Visit Example</a>.
+________________________________________
+CSS
+1.	Question: What is the difference between padding and margin?
+o	Answer: Padding is the space between the content and the border of an element, while margin is the space outside the border of an element, separating it from other elements.
+2.	Question: How do you center an element horizontally using CSS?
+o	Answer: You can center a block-level element by setting margin: 0 auto;. For inline elements, you can use text-align: center; on the parent element.
+3.	Question: What is the purpose of z-index in CSS?
+o	Answer: The z-index property specifies the stack order of elements, controlling which elements appear in front of or behind others. It only works with positioned elements (positioned with position: relative, absolute, or fixed).
+________________________________________
+SYSS (System Security)
+1.	Question: What is encryption, and why is it important?
+o	Answer: Encryption is the process of converting data into a coded format to prevent unauthorized access. It is essential for protecting sensitive information, especially in online transactions and communications.
+2.	Question: What is the difference between symmetric and asymmetric encryption?
+o	Answer: In symmetric encryption, the same key is used for both encryption and decryption, while in asymmetric encryption, a pair of public and private keys is used, with one key for encryption and the other for decryption.
+3.	Question: What is a firewall, and how does it help secure a network?
+o	Answer: A firewall is a security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It helps protect a network from unauthorized access and cyber threats.
+
